@@ -4,3 +4,8 @@ dotfiles:
     deploy_to: "/Users/rick/"
     config_repository: "git@git.ogtastic.com:rick-config.git"
     deploy_config_to: "/Users/rick/deploy/rick-config"
+  "smegatron":
+    repository: "git@github-rick:rick/dotfiles.git"
+    deploy_to: "/home/rick/"
+    config_repository: "git@git.ogtastic.com:rick-config.git"
+    deploy_config_to: "/home/rick/deploy/rick-config"
