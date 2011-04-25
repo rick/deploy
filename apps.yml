@@ -1,0 +1,4 @@
+pledgenothing:
+  production:
+    repository: "git://github.com/rick/p0.o.git"
+    deploy_to: "/home/eastcore/sites/pledgenothing/www/"
