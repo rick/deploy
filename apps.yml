@@ -2,7 +2,7 @@ pledgenothing:
   production:
     repository: "git://github.com/rick/p0.o.git"
     deploy_to: "/home/eastcore/sites/pledgenothing/www/"
-    config_repository: "git@git.ogtastic.com:rick-config.git"
+    config_repository: "git@git.ogtastic.com:rick/rick-config.git"
     deploy_config_to: "/home/eastcore/sites/rick-config"
     rake_env:
       RACK_ENV: production
