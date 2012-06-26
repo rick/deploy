@@ -8,24 +8,24 @@ dotfiles:
   "Yer-Moms-Computer-2.local":
     repository: "git@github-rick:rick/dotfiles.git"
     deploy_to: "/Users/rick/"
-    config_repository: "git@git.ogtastic.com:rick-config.git"
+    config_repository: "https://github.com/rick/config.git"
     deploy_config_to: "/Users/rick/deploy/rick-config"
     config_target: "macbook-pro"
   "smegatron":
     repository: "git@github-rick:rick/dotfiles.git"
     deploy_to: "/home/rick/"
-    config_repository: "git@git.ogtastic.com:rick-config.git"
+    config_repository: "https://github.com/rick/config.git"
     deploy_config_to: "/home/rick/deploy/rick-config"
     config_target: "linux"
   "bragi":
     repository: "git@github-rick:rick/dotfiles.git"
     deploy_to: "/home/rick/"
-    config_repository: "git@git.ogtastic.com:rick-config.git"
+    config_repository: "https://github.com/rick/config.git"
     deploy_config_to: "/home/rick/deploy/rick-config"
     config_target: "linux"
   "hoenir.websages.com":
     repository: "git@github-rick:rick/dotfiles.git"
     deploy_to: "/home/rick/"
-    config_repository: "git@git.ogtastic.com:rick-config.git"
+    config_repository: "https://github.com/rick/config.git"
     deploy_config_to: "/home/rick/deploy/rick-config"
     config_target: "linux"
