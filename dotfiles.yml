@@ -1,4 +1,10 @@
 dotfiles:
+  "Ricks-MacBook-Pro-2.local":
+    repository: "git@github-rick:rick/dotfiles.git"
+    deploy_to: "/Users/rick/"
+    config_repository: "https://github.com/rick/config.git"
+    deploy_config_to: "/Users/rick/deploy/rick-config"
+    config_target: "macbook-pro"
   "Yer-Moms-Computer-2.local":
     repository: "git@github-rick:rick/dotfiles.git"
     deploy_to: "/Users/rick/"
